@@ -1,0 +1,8 @@
+BZOJ2653 middle
+BZOJ3110 K大数查询
+BZOJ2594 水管局长
+BZOJ3065 带插入区间K小值
+http://www.tsinsen.com/A1322http://dsa.openjudge.cn/finalht2016/2/
+BZOJ2809 APIO2012 dispatching
+BZOJ3730 震波
+http://uoj.ac/problem/55 紫荆花之恋

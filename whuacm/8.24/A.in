@@ -1,0 +1,8 @@
+A ^ (~y V z)
+(A^~y) V (A ^ z)
+a V (b ^ ~b) V (c ^ ~c)
+a
+~x ^ ~y
+~(x V y)()
+a ^ b ^ c ^ d
+a V b V c V d
